@@ -7,17 +7,17 @@ Os conteúdos abordados nesse Bootcamp foram:
 2) SQL 
 3) MYSQL
 4) GITHUB
-5) ESTATISTICA COM PYTHON
+5) DATA VISUALIZATION COM PYTHON
+6) DATA VISUALIZATION COM GOOGLE SHEET
+7) DATA VISUALIZATION COM POWER BI
+8) COMPUTAÇÃO EM NUVEM E AZURE
+9) METODOLOGIAS ÁGEIS 
+10) SOFT SKILLS
+11) ESTATISTICA COM PYTHON
 •	Frequências e medidas
 •	Probabilidade e amostragem
 •	Teste de Hipótese
 •	Correlação e Regressão
 •	Modelos regressivos
-6) DATA VISUALIZATION COM PYTHON
-7) DATA VISUALIZATION COM GOOGLE SHEET
-8) DATA VISUALIZATION COM POWER BI
-9) COMPUTAÇÃO EM NUVEM E AZURE
-10) METODOLOGIAS ÁGEIS 
-11) SOFT SKILLS
 
-E neste repositório compartilharei aos poucos meus projetos desenvolvidos nestes últimos meses.
+E neste repositório compartilharei aos poucos meus projetos de ESTATISTICA COM PYTHON realizados nos ultimos meses. 
