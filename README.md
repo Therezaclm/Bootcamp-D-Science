@@ -14,10 +14,10 @@ Os conteúdos abordados nesse Bootcamp foram:
 9) METODOLOGIAS ÁGEIS 
 10) SOFT SKILLS
 11) ESTATISTICA COM PYTHON
-•	Frequências e medidas
-•	Probabilidade e amostragem
-•	Teste de Hipótese
-•	Correlação e Regressão
-•	Modelos regressivos
+Frequências e medidas
+Probabilidade e amostragem
+Teste de Hipótese
+Correlação e Regressão
+Modelos regressivos
 
 E neste repositório compartilharei aos poucos meus projetos de ESTATISTICA COM PYTHON realizados nos ultimos meses. 
