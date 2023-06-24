@@ -1,4 +1,4 @@
-<h1 align="center"> Estatística no Bootcamp Data Science </h1>
+<h1 align="center"> Estatística no Bootcamp Tech Minas </h1>
 
 O Bootcamp Data Science promovido pela organização WOMAKERCODE teve uma duração de 22 semanas, no qual foram proporcionadas formações técnicas, comportamentais além de mentorias de carreira para apoiar estudantes da área de exatas a integrarem o mercado de Dados. A seleção foi realizada com mais de 2000 mulheres do brasil e consegui estar entre as 50 mulheres selecionadas para esta jornada. 
 
